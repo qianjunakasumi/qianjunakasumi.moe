@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/lit": "^3.0.1",
     "@astrojs/tailwind": "^5.0.2",
+    "@material/web": "^1.0.0",
     "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^3.2.3",
     "lit": "^2.7.0",
