@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^3.2.3"
+    "@astrojs/lit": "^3.0.1",
+    "@webcomponents/template-shadowroot": "^0.2.1",
+    "astro": "^3.2.3",
+    "lit": "^2.7.0"
   }
 }
