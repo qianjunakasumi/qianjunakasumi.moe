@@ -1,15 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import '@fontsource-variable/red-hat-mono';
 ---
 
 <Layout title="@qianjunakasumi 千橘雫霞 せんじゅなかすみ／Official">
     <main>
-        <h1>千橘 雫霞<br>qianjunakasumi<br>せんじゅなかすみ</h1>
+        <h1>
+            千橘 雫霞<br>
+            <span class="qianju">qianjunakasumi</span><br>
+            せんじゅなかすみ
+        </h1>
         <p class="qwq">少女装潢中...<br>已经懒到好好写前端都不想了🤗:D</p>
     </main>
     <footer>
         <a href="https://icp.gov.moe/?keyword=20232034" target="_blank">萌ICP备20232034号</a><br>
-        <span>Copyright (c) 2023 qianjunakasumi</span>
+        <span class="qianju">Copyright (c) 2023 qianjunakasumi</span>
     </footer>
 </Layout>
 
@@ -22,6 +27,10 @@ import Layout from '../layouts/Layout.astro';
         font-size: 2.2rem;
         font-weight: 700;
         font-family: monospace;
+    }
+
+    .qianju {
+        font-family: 'Red Hat Mono Variable', sans-serif;
     }
 
     .qwq {
