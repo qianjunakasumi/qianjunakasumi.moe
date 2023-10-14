@@ -7,5 +7,8 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://qianjunakasumi.moe',
+  build: {
+    assets: 'assets'
+  },
   integrations: [lit(), tailwind(), prefetch(), sitemap()]
 });
