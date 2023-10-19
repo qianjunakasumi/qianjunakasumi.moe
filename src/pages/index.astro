@@ -6,11 +6,18 @@ import '@fontsource-variable/red-hat-mono';
 <Layout title="@qianjunakasumi 千橘雫霞 せんじゅなかすみ／Official">
     <main>
         <h1>
-            千橘 雫霞<br>
-            <span class="qianju">qianjunakasumi</span><br>
-            せんじゅなかすみ
+            <span lang="zh" class="qianju-sans">千橘&nbsp;&nbsp;雫霞</span><br>
+            <span lang="en" class="qianju">qianjunakasumi</span><br>
+            <span lang="ja" class="qianju-sans">せんじゅなかすみ</span>
         </h1>
-        <p class="qwq">少女装潢中...<br>已经懒到好好写前端都不想了🤗:D</p>
+        <p class="mt-5 qwq">少女装潢中...<br>已经懒到好好写前端都不想了🤗&nbsp;&nbsp;:D</p>
+        <p class="mt-12">
+            <a href="https://github.com/qianjunakasumi">GitHub</a>
+            ・
+            <a href="https://huggingface.co/qianjunakasumi">Hugging Face</a>
+            ・
+            <a href="https://twitter.com/qianjunakasumi">Twitter</a>
+        </p>
     </main>
     <footer>
         <a href="https://icp.gov.moe/?keyword=20232034" target="_blank">萌ICP备20232034号</a><br>
@@ -25,12 +32,16 @@ import '@fontsource-variable/red-hat-mono';
 
     h1 {
         font-size: 2.2rem;
-        font-weight: 700;
-        font-family: monospace;
+        font-weight: 900;
+        line-height: 3.16rem;
+    }
+
+    .qianju-sans {
+        font-family: sans-serif;
     }
 
     .qianju {
-        font-family: 'Red Hat Mono Variable', sans-serif;
+        font-family: 'Red Hat Mono Variable', monospace;
     }
 
     .qwq {
@@ -40,7 +51,7 @@ import '@fontsource-variable/red-hat-mono';
 
     footer {
         color: #232129;
-        padding: 6rem 0 0 6rem;
+        padding: 3rem 0 0 6rem;
         font-family: monospace;
         font-size: 1.02rem;
     }
