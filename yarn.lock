@@ -549,10 +549,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.19.4.tgz#d46a6e220a717f31f39ae80f49477cc3220be0f0"
   integrity sha512-HP0GDNla1T3ZL8Ko/SHAS2GgtjOg+VmWnnYLhuTksr++EnduYB0f3Y2LzHsUwb2iQ13JGoY6G3R8h6Du/WG6uA==
 
-"@fontsource-variable/red-hat-mono@^5.0.14":
-  version "5.0.14"
-  resolved "https://registry.yarnpkg.com/@fontsource-variable/red-hat-mono/-/red-hat-mono-5.0.14.tgz#ec40bcd6334a3c261adf0ff69239d33b8b866886"
-  integrity sha512-1CJBMUmZ7kuPXsTBTOsnBnfCGHe45vphG3Tvwlvjv34wN9veOe9zdbMYyZk8Nhitc1KJD6GPj4d9eg7Qr5h5vQ==
+"@fontsource-variable/red-hat-mono@^5.0.16":
+  version "5.0.16"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/red-hat-mono/-/red-hat-mono-5.0.16.tgz#d78f2d7b290b45386774d8791386123f6dfabe62"
+  integrity sha512-jBReVQ2SdNhlDCTwb56GBT5ik/ZqQVbAmMkHbh33YsrVDbJylTGjQ4PP/YKSowz4dBKqhiZNPug1VhJ3WlzzPw==
 
 "@jridgewell/gen-mapping@^0.3.0", "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.3"
