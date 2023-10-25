@@ -13,7 +13,7 @@
     "@astrojs/lit": "^3.0.2",
     "@astrojs/mdx": "^1.1.2",
     "@astrojs/prefetch": "^0.4.1",
-    "@astrojs/sitemap": "^3.0.1",
+    "@astrojs/sitemap": "^3.0.2",
     "@astrojs/tailwind": "^5.0.2",
     "@fontsource-variable/red-hat-mono": "^5.0.16",
     "@material/web": "^1.0.0",
