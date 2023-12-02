@@ -3,11 +3,67 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Resume ／ @qianjunakasumi">
-    <h1 class="text-4xl">Resume</h1>
-    <h2 class="text-2xl">Competition History</h2>
-    <ul>
-        <li>Lanqiao Competition 2023 Web Application Development National 3rd Prize</li>
-        <li>Huawei ICT Competition 2022-2023 Practice-Cloud Track Undergraduate ** Province 3rd Prize</li>
-        <li>National University Student AI Knowledge Competition 2022 (Baidu PaddlePaddle) 1st Prize</li>
-    </ul>
+    <div class="m-auto px-4 max-w-4xl">
+        <header class="mt-6">
+            <h1 class="flex justify-between items-end">
+                <span class="text-4xl">Resume</span>
+                <span class="ml-6 text-base">@qianjunakasumi</span>
+            </h1>
+        </header>
+        <main class="mt-6 text-lg">
+            <section class="mt-4">
+                <h2 class="mb-2 text-2xl">Tech Stacks</h2>
+                <h3 class="mb-1 text-xl">Programing Language</h3>
+                <ul class="pl-6 list-disc">
+                    <li>Golang</li>
+                    <li>JavaScript & TypeScript</li>
+                    <li>Rust</li>
+                    <li>Python</li>
+                    <li>Java & Kotlin & Dart</li>
+                    <li>PHP</li>
+                    <li>Zig</li>
+                    <li>Lua & Ruby & Julia & R</li>
+                </ul>
+                <h3 class="mt-2 mb-1 text-xl">Frontend</h3>
+                <ul class="flex pl-6 gap-x-10 list-disc">
+                    <li>React</li>
+                    <li>Vue</li>
+                    <li>Astro</li>
+                    <li>Lit</li>
+                </ul>
+                <h3 class="mt-2 mb-1 text-xl">Cloud Native</h3>
+                <ul class="pl-6 list-disc">
+                    <li>Kubernetes</li>
+                    <li>Ceph</li>
+                    <li>Istio</li>
+                    <li>Grafana</li>
+                </ul>
+            </section>
+            <section class="mt-4">
+                <h2 class="mb-2 text-2xl">Competition History</h2>
+                <ul class="pl-6 list-disc">
+                    <li>Lanqiao Competition 2023 Web Application Development National 3rd Prize</li>
+                    <li>Huawei ICT Competition 2022-2023 Practice-Cloud Track Undergraduate ** Province 3rd Prize with 1st in Team</li>
+                    <li>National University Student AI Knowledge Competition 2022 (Baidu PaddlePaddle) 1st Prize</li>
+                    <li>*** University C.S. Faculty 4th Session Cyber Security Competition 2023 1st Prize</li>
+                    <li>*** University C.S. Faculty 3rd Session Cyber Security Competition 2022 1st Prize</li>
+                    <li>Chinese Collegiate Computing Competition (4C) 2022 ** Province 3rd Prize</li>
+                    <li>China Adolescents Science and Technology Innovation Contest 2021 ** Province 3rd Prize with 2020 ** City 1st Prize</li>
+                </ul>
+            </section>
+            <section class="mt-4">
+                <h2 class="mb-2 text-2xl">Summer Camp</h2>
+                <ul class="pl-6 list-disc">
+                    <li>Datawhale AI Summer Camp 3rd Session Machine Learning Practice Competition 2023 2nd Prize</li>
+                </ul>
+            </section>
+            <section class="mt-8">
+                More content incoming...
+            </section>
+        </main>
+        <footer class="mt-8">
+            Information that may identify me has been blurred (for privacy reasons). If you want to know more about it,
+            please send an email to qianjunakasumi[at]outlook.com.
+        </footer>
+    </div>
 </Layout>
