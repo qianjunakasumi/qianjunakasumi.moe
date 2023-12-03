@@ -1,24 +1,25 @@
 ---
-import Description from "./Description.astro";
 import Favicon from "./Favicon.astro";
 import PrintQianju from "./PrintQianju.astro";
 
 interface Props {
 	title: string;
+	description: string;
+	isTittleSuffix: boolean;
 }
 
-const { title } = Astro.props;
+const { title, description, isTittleSuffix } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<Description content="@qianjunakasumi's official website. Interested in software engineering, cloud native, artificial intelligence and big data" />
+		<meta name="description" content={ description + ' ・ @qianjunakasumi 千橘雫霞 せんじゅなかすみ／Official' } />
 		<meta name="viewport" content="width=device-width" />
 		<Favicon />
 		<link rel="sitemap" href="/sitemap-index.xml" />
-		<title>{title}</title>
+        <title>{isTittleSuffix?title+' ／ @qianjunakasumi':title}</title>
 	</head>
 	<body>
 		<slot />
