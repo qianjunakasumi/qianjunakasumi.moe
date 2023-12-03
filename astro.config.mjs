@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 import lit from "@astrojs/lit";
 import tailwind from "@astrojs/tailwind";
-import prefetch from "@astrojs/prefetch";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
 
@@ -11,5 +10,5 @@ export default defineConfig({
   build: {
     assets: 'assets'
   },
-  integrations: [lit(), tailwind(), prefetch(), sitemap(), mdx()]
+  integrations: [lit(), tailwind(), sitemap(), mdx()]
 });
