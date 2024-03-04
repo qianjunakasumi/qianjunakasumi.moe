@@ -437,10 +437,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.19.11.tgz#a5d300008960bb39677c46bf16f53ec70d8dee04"
   integrity sha512-vfkhltrjCAb603XaFhqhAF4LGDi2M4OrCRrFusyQ+iTLQ/o60QQXxc9cZC/FFpihBI9N1Grn6SMKVJ4KP7Fuiw==
 
-"@fontsource-variable/red-hat-mono@^5.0.17":
-  version "5.0.17"
-  resolved "https://registry.yarnpkg.com/@fontsource-variable/red-hat-mono/-/red-hat-mono-5.0.17.tgz#057e74513748a1e63114c0ffcf00619175b2b212"
-  integrity sha512-a12mHWaeLTeld19t2Z4CdEXsPlPjfuH2TEHxh63eTFQ7lLE8+RhEXflVrekH/lxvblglP/3RehyX6PMPq75ebA==
+"@fontsource-variable/red-hat-mono@^5.0.18":
+  version "5.0.18"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/red-hat-mono/-/red-hat-mono-5.0.18.tgz#07ce8bd332481a16d7185a47bf6f899ca2cbc9f2"
+  integrity sha512-qzbs2bMMnwRBWi1zVrQtatlw8nVeqYijlbd3ZFqiYNOybbXOedLIYU8PRhBGH1TCoZNJ62YqMpX/+RSd8peYAw==
 
 "@isaacs/cliui@^8.0.2":
   version "8.0.2"
