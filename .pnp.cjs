@@ -36,7 +36,6 @@ const RAW_RUNTIME_STATE =
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.7.0"],\
           ["chalk", "npm:5.3.0"],\
-          ["chiron-sung-hk-webfont", "npm:1.0.11"],\
           ["lit", "npm:3.1.3"],\
           ["pixi.js", "npm:8.1.0"],\
           ["tailwindcss", "npm:3.4.3"],\
@@ -2157,15 +2156,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../AppData/Local/Yarn/Berry/cache/character-reference-invalid-npm-2.0.1-edca9dd17a-10c0.zip/node_modules/character-reference-invalid/",\
         "packageDependencies": [\
           ["character-reference-invalid", "npm:2.0.1"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["chiron-sung-hk-webfont", [\
-      ["npm:1.0.11", {\
-        "packageLocation": "../../../AppData/Local/Yarn/Berry/cache/chiron-sung-hk-webfont-npm-1.0.11-71bf5a2957-10c0.zip/node_modules/chiron-sung-hk-webfont/",\
-        "packageDependencies": [\
-          ["chiron-sung-hk-webfont", "npm:1.0.11"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5500,7 +5490,6 @@ const RAW_RUNTIME_STATE =
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.7.0"],\
           ["chalk", "npm:5.3.0"],\
-          ["chiron-sung-hk-webfont", "npm:1.0.11"],\
           ["lit", "npm:3.1.3"],\
           ["pixi.js", "npm:8.1.0"],\
           ["tailwindcss", "npm:3.4.3"],\
