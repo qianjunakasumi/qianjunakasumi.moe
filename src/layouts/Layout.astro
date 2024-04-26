@@ -5,21 +5,28 @@ import PrintQianju from "./PrintQianju.astro";
 interface Props {
 	title: string;
 	description: string;
+	language: string;
 	isTittleSuffix: boolean;
 }
 
-const { title, description, isTittleSuffix } = Astro.props;
+const {
+    title,
+    description,
+    language = 'en',
+    isTittleSuffix = false
+} = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={language}>
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content={ description + ' ・ @qianjunakasumi 千橘雫霞 せんじゅなかすみ／Official' } />
+		<meta name="description" content={ description + ' ・ @qianjunakasumi 千橘雫霞／Official' } />
 		<meta name="viewport" content="width=device-width" />
 		<Favicon />
 		<link rel="sitemap" href="/sitemap-index.xml" />
         <title>{isTittleSuffix?title+' ／ @qianjunakasumi':title}</title>
+		<slot name="head" />
 	</head>
 	<body>
 		<slot />
@@ -29,9 +36,11 @@ const { title, description, isTittleSuffix } = Astro.props;
 <style is:global>
 	:root {
 	}
+
 	html {
 		font-family: system-ui, sans-serif;
 	}
+
 	code {
 		font-family:
 			Menlo,
