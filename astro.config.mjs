@@ -10,5 +10,13 @@ export default defineConfig({
   build: {
     assets: 'assets'
   },
-  integrations: [lit(), tailwind(), sitemap(), mdx()]
+  integrations: [lit(), tailwind(), sitemap(), mdx()],
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'ja', 'zh'],
+    fallback: {
+      ja: 'en',
+      zh: 'en',
+    },
+  },
 });
