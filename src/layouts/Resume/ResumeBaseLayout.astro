@@ -13,11 +13,24 @@ interface Props {
 }
 
 const {titles, headers, certs, summerCamps, practices} = Astro.props;
+
+const language = [
+    ['en', ''],
+    ['zh', 'zh/'],
+    ['ja', 'ja/'],
+];
 ---
 
 <header class="flex justify-center items-center w-full resume-bg">
     <div class="w-full width-limit">
-        <section class="flex items-end mt-16">
+        <section class="flex justify-end mt-4 gap-x-3 text-gray-400">
+            {
+                language.map((item) => (
+                        <a href={`/resume/${item[1]}`} class="hover:underline hover:text-black">[{item[0]}]</a>
+                ))
+            }
+        </section>
+        <section class="flex items-end mt-10">
             <h1 class="text-5xl font-black">千橘 雫霞</h1>
             <h3 class="ml-8 text-xl font-light">NAKASUMI QIANJU</h3>
         </section>
@@ -82,7 +95,7 @@ const {titles, headers, certs, summerCamps, practices} = Astro.props;
             </ResumeItemListComponent>
         </ResumeItemComponent>
 
-        <div class="my-8">{ titles.moreContentTitle }</div>
+        <div class="my-8">{titles.moreContentTitle}</div>
     </div>
 </main>
 
