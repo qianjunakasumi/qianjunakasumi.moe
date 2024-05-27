@@ -37,7 +37,7 @@ const RAW_RUNTIME_STATE =
           ["astro", "npm:4.8.6"],\
           ["chalk", "npm:5.3.0"],\
           ["lit", "npm:3.1.3"],\
-          ["pixi.js", "npm:8.1.4"],\
+          ["pixi.js", "npm:8.1.5"],\
           ["tailwindcss", "npm:3.4.3"],\
           ["xterm", "npm:5.3.0"]\
         ],\
@@ -5498,10 +5498,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["pixi.js", [\
-      ["npm:8.1.4", {\
-        "packageLocation": "../../.yarn/berry/cache/pixi.js-npm-8.1.4-8733840529-10c0.zip/node_modules/pixi.js/",\
+      ["npm:8.1.5", {\
+        "packageLocation": "../../.yarn/berry/cache/pixi.js-npm-8.1.5-48608d3bab-10c0.zip/node_modules/pixi.js/",\
         "packageDependencies": [\
-          ["pixi.js", "npm:8.1.4"],\
+          ["pixi.js", "npm:8.1.5"],\
           ["@pixi/colord", "npm:2.9.6"],\
           ["@types/css-font-loading-module", "npm:0.0.12"],\
           ["@types/earcut", "npm:2.1.4"],\
@@ -5743,7 +5743,7 @@ const RAW_RUNTIME_STATE =
           ["astro", "npm:4.8.6"],\
           ["chalk", "npm:5.3.0"],\
           ["lit", "npm:3.1.3"],\
-          ["pixi.js", "npm:8.1.4"],\
+          ["pixi.js", "npm:8.1.5"],\
           ["tailwindcss", "npm:3.4.3"],\
           ["xterm", "npm:5.3.0"]\
         ],\
