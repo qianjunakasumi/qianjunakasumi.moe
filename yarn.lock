@@ -36,18 +36,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/lit@npm:^4.0.1":
-  version: 4.0.1
-  resolution: "@astrojs/lit@npm:4.0.1"
+"@astrojs/lit@npm:^4.2.0":
+  version: 4.2.0
+  resolution: "@astrojs/lit@npm:4.2.0"
   dependencies:
-    "@lit-labs/ssr": "npm:^3.2.0"
-    "@lit-labs/ssr-client": "npm:^1.1.5"
-    "@lit-labs/ssr-dom-shim": "npm:^1.1.2"
+    "@lit-labs/ssr": "npm:^3.2.2"
+    "@lit-labs/ssr-client": "npm:^1.1.7"
+    "@lit-labs/ssr-dom-shim": "npm:^1.2.0"
     parse5: "npm:^7.1.2"
   peerDependencies:
     "@webcomponents/template-shadowroot": ^0.2.1
     lit: ^3.1.0
-  checksum: 10c0/09eb3a5961bd5f53aa9e1986781f059a90352280dbfd79969d700ffba9f9328e35be4fbac3194a6d16546174884558e742e0aab4640d662aa17046517b6915b7
+  checksum: 10c0/4b57d59767179d2712f48a50e4e4b47ab839316f2663fbe5da26fd0b90fd555c71d8e20287a6ab948655b9b3712c5c74afbfb71930ade2123a41db47a24588e3
   languageName: node
   linkType: hard
 
@@ -1015,7 +1015,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lit-labs/ssr-client@npm:^1.1.5, @lit-labs/ssr-client@npm:^1.1.7":
+"@lit-labs/ssr-client@npm:^1.1.7":
   version: 1.1.7
   resolution: "@lit-labs/ssr-client@npm:1.1.7"
   dependencies:
@@ -1026,14 +1026,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lit-labs/ssr-dom-shim@npm:^1.1.2, @lit-labs/ssr-dom-shim@npm:^1.2.0":
+"@lit-labs/ssr-dom-shim@npm:^1.2.0":
   version: 1.2.0
   resolution: "@lit-labs/ssr-dom-shim@npm:1.2.0"
   checksum: 10c0/016168cf6901ab343462c13fb168dda6d549f8b42680aa394e6b7cd0af7cce51271e00dbfa5bbbe388912bf89cbb8f941a21cc3ec9bf95d6a84b6241aa9e5a72
   languageName: node
   linkType: hard
 
-"@lit-labs/ssr@npm:^3.2.0":
+"@lit-labs/ssr@npm:^3.2.2":
   version: 3.2.2
   resolution: "@lit-labs/ssr@npm:3.2.2"
   dependencies:
@@ -5058,7 +5058,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "qianjunakasumi-moe@workspace:."
   dependencies:
-    "@astrojs/lit": "npm:^4.0.1"
+    "@astrojs/lit": "npm:^4.2.0"
     "@astrojs/mdx": "npm:^3.0.0"
     "@astrojs/sitemap": "npm:^3.1.4"
     "@astrojs/tailwind": "npm:^5.1.0"
