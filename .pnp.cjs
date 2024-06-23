@@ -31,7 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@astrojs/sitemap", "npm:3.1.4"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
-          ["@material/web", "npm:1.4.1"],\
+          ["@material/web", "npm:1.5.0"],\
           ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.13"],\
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.10.3"],\
@@ -1141,10 +1141,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@material/web", [\
-      ["npm:1.4.1", {\
-        "packageLocation": "../../.yarn/berry/cache/@material-web-npm-1.4.1-610cfb51a4-10c0.zip/node_modules/@material/web/",\
+      ["npm:1.5.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@material-web-npm-1.5.0-e315e2e4f0-10c0.zip/node_modules/@material/web/",\
         "packageDependencies": [\
-          ["@material/web", "npm:1.4.1"],\
+          ["@material/web", "npm:1.5.0"],\
           ["lit", "npm:3.1.3"],\
           ["tslib", "npm:2.6.2"]\
         ],\
@@ -5600,7 +5600,7 @@ const RAW_RUNTIME_STATE =
           ["@astrojs/sitemap", "npm:3.1.4"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
-          ["@material/web", "npm:1.4.1"],\
+          ["@material/web", "npm:1.5.0"],\
           ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.13"],\
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.10.3"],\
