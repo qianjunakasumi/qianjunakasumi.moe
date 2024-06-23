@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.0.1"],\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.0.0"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.1"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
@@ -140,23 +140,23 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@astrojs/mdx", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@astrojs-mdx-npm-3.0.0-22a7854dc9-10c0.zip/node_modules/@astrojs/mdx/",\
+      ["npm:3.1.1", {\
+        "packageLocation": "../../.yarn/berry/cache/@astrojs-mdx-npm-3.1.1-e0212cc0dc-10c0.zip/node_modules/@astrojs/mdx/",\
         "packageDependencies": [\
-          ["@astrojs/mdx", "npm:3.0.0"]\
+          ["@astrojs/mdx", "npm:3.1.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.0.0", {\
-        "packageLocation": "./.yarn/__virtual__/@astrojs-mdx-virtual-485c21d21f/3/.yarn/berry/cache/@astrojs-mdx-npm-3.0.0-22a7854dc9-10c0.zip/node_modules/@astrojs/mdx/",\
+      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.1", {\
+        "packageLocation": "./.yarn/__virtual__/@astrojs-mdx-virtual-156e352a27/3/.yarn/berry/cache/@astrojs-mdx-npm-3.1.1-e0212cc0dc-10c0.zip/node_modules/@astrojs/mdx/",\
         "packageDependencies": [\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.0.0"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.1"],\
           ["@astrojs/markdown-remark", "npm:5.1.0"],\
           ["@mdx-js/mdx", "npm:3.0.1"],\
           ["@types/astro", null],\
-          ["acorn", "npm:8.11.3"],\
+          ["acorn", "npm:8.12.0"],\
           ["astro", "npm:4.10.3"],\
-          ["es-module-lexer", "npm:1.5.2"],\
+          ["es-module-lexer", "npm:1.5.3"],\
           ["estree-util-visit", "npm:2.0.0"],\
           ["github-slugger", "npm:2.0.0"],\
           ["gray-matter", "npm:4.0.3"],\
@@ -2673,13 +2673,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["es-module-lexer", [\
-      ["npm:1.5.2", {\
-        "packageLocation": "../../.yarn/berry/cache/es-module-lexer-npm-1.5.2-9950a0d4ce-10c0.zip/node_modules/es-module-lexer/",\
-        "packageDependencies": [\
-          ["es-module-lexer", "npm:1.5.2"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:1.5.3", {\
         "packageLocation": "../../.yarn/berry/cache/es-module-lexer-npm-1.5.3-af193ccb42-10c0.zip/node_modules/es-module-lexer/",\
         "packageDependencies": [\
@@ -5596,7 +5589,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["qianjunakasumi-moe", "workspace:."],\
           ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.0.1"],\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.0.0"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.1"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
