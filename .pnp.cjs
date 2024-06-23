@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.10.3"],\
           ["chalk", "npm:5.3.0"],\
-          ["lit", "npm:3.1.3"],\
+          ["lit", "npm:3.1.4"],\
           ["pixi.js", "npm:8.1.4"],\
           ["tailwindcss", "npm:3.4.3"],\
           ["xterm", "npm:5.3.0"]\
@@ -100,7 +100,7 @@ const RAW_RUNTIME_STATE =
           ["@types/lit", null],\
           ["@types/webcomponents__template-shadowroot", null],\
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
-          ["lit", "npm:3.1.3"],\
+          ["lit", "npm:3.1.4"],\
           ["parse5", "npm:7.1.2"]\
         ],\
         "packagePeers": [\
@@ -3836,6 +3836,16 @@ const RAW_RUNTIME_STATE =
           ["lit-html", "npm:3.1.3"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:3.1.4", {\
+        "packageLocation": "../../.yarn/berry/cache/lit-npm-3.1.4-b7dcc2d5a3-10c0.zip/node_modules/lit/",\
+        "packageDependencies": [\
+          ["lit", "npm:3.1.4"],\
+          ["@lit/reactive-element", "npm:2.0.4"],\
+          ["lit-element", "npm:4.0.5"],\
+          ["lit-html", "npm:3.1.3"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["lit-element", [\
@@ -5595,7 +5605,7 @@ const RAW_RUNTIME_STATE =
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.10.3"],\
           ["chalk", "npm:5.3.0"],\
-          ["lit", "npm:3.1.3"],\
+          ["lit", "npm:3.1.4"],\
           ["pixi.js", "npm:8.1.4"],\
           ["tailwindcss", "npm:3.4.3"],\
           ["xterm", "npm:5.3.0"]\
