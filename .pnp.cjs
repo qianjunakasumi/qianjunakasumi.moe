@@ -26,7 +26,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.0.1"],\
+          ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
           ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.2"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
@@ -83,17 +83,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@astrojs/lit", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../.yarn/berry/cache/@astrojs-lit-npm-4.0.1-d56af0e107-10c0.zip/node_modules/@astrojs/lit/",\
+      ["npm:4.3.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@astrojs-lit-npm-4.3.0-90d5dbd76a-10c0.zip/node_modules/@astrojs/lit/",\
         "packageDependencies": [\
-          ["@astrojs/lit", "npm:4.0.1"]\
+          ["@astrojs/lit", "npm:4.3.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.0.1", {\
-        "packageLocation": "./.yarn/__virtual__/@astrojs-lit-virtual-c81e4f65e5/3/.yarn/berry/cache/@astrojs-lit-npm-4.0.1-d56af0e107-10c0.zip/node_modules/@astrojs/lit/",\
+      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0", {\
+        "packageLocation": "./.yarn/__virtual__/@astrojs-lit-virtual-5986691957/3/.yarn/berry/cache/@astrojs-lit-npm-4.3.0-90d5dbd76a-10c0.zip/node_modules/@astrojs/lit/",\
         "packageDependencies": [\
-          ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.0.1"],\
+          ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
           ["@lit-labs/ssr", "npm:3.2.2"],\
           ["@lit-labs/ssr-client", "npm:1.1.7"],\
           ["@lit-labs/ssr-dom-shim", "npm:1.2.0"],\
@@ -5545,7 +5545,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["qianjunakasumi-moe", "workspace:."],\
-          ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.0.1"],\
+          ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
           ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.2"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
