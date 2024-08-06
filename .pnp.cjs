@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.2"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
@@ -113,31 +113,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@astrojs/markdown-remark", [\
-      ["npm:5.1.1", {\
-        "packageLocation": "../../.yarn/berry/cache/@astrojs-markdown-remark-npm-5.1.1-0521c9626e-10c0.zip/node_modules/@astrojs/markdown-remark/",\
-        "packageDependencies": [\
-          ["@astrojs/markdown-remark", "npm:5.1.1"],\
-          ["@astrojs/prism", "npm:3.1.0"],\
-          ["github-slugger", "npm:2.0.0"],\
-          ["hast-util-from-html", "npm:2.0.1"],\
-          ["hast-util-to-text", "npm:4.0.2"],\
-          ["import-meta-resolve", "npm:4.1.0"],\
-          ["mdast-util-definitions", "npm:6.0.0"],\
-          ["rehype-raw", "npm:7.0.0"],\
-          ["rehype-stringify", "npm:10.0.0"],\
-          ["remark-gfm", "npm:4.0.0"],\
-          ["remark-parse", "npm:11.0.0"],\
-          ["remark-rehype", "npm:11.1.0"],\
-          ["remark-smartypants", "npm:3.0.1"],\
-          ["shiki", "npm:1.9.0"],\
-          ["unified", "npm:11.0.5"],\
-          ["unist-util-remove-position", "npm:5.0.0"],\
-          ["unist-util-visit", "npm:5.0.0"],\
-          ["unist-util-visit-parents", "npm:6.0.1"],\
-          ["vfile", "npm:6.0.1"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:5.2.0", {\
         "packageLocation": "../../.yarn/berry/cache/@astrojs-markdown-remark-npm-5.2.0-613a1e86a6-10c0.zip/node_modules/@astrojs/markdown-remark/",\
         "packageDependencies": [\
@@ -165,21 +140,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@astrojs/mdx", [\
-      ["npm:3.1.2", {\
-        "packageLocation": "../../.yarn/berry/cache/@astrojs-mdx-npm-3.1.2-68157879b4-10c0.zip/node_modules/@astrojs/mdx/",\
+      ["npm:3.1.3", {\
+        "packageLocation": "../../.yarn/berry/cache/@astrojs-mdx-npm-3.1.3-859ab9a392-10c0.zip/node_modules/@astrojs/mdx/",\
         "packageDependencies": [\
-          ["@astrojs/mdx", "npm:3.1.2"]\
+          ["@astrojs/mdx", "npm:3.1.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.2", {\
-        "packageLocation": "./.yarn/__virtual__/@astrojs-mdx-virtual-3df06763f2/3/.yarn/berry/cache/@astrojs-mdx-npm-3.1.2-68157879b4-10c0.zip/node_modules/@astrojs/mdx/",\
+      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3", {\
+        "packageLocation": "./.yarn/__virtual__/@astrojs-mdx-virtual-f380207bed/3/.yarn/berry/cache/@astrojs-mdx-npm-3.1.3-859ab9a392-10c0.zip/node_modules/@astrojs/mdx/",\
         "packageDependencies": [\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.2"],\
-          ["@astrojs/markdown-remark", "npm:5.1.1"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3"],\
+          ["@astrojs/markdown-remark", "npm:5.2.0"],\
           ["@mdx-js/mdx", "npm:3.0.1"],\
           ["@types/astro", null],\
-          ["acorn", "npm:8.12.0"],\
+          ["acorn", "npm:8.12.1"],\
           ["astro", "npm:4.13.1"],\
           ["es-module-lexer", "npm:1.5.4"],\
           ["estree-util-visit", "npm:2.0.0"],\
@@ -189,10 +164,10 @@ const RAW_RUNTIME_STATE =
           ["kleur", "npm:4.1.5"],\
           ["rehype-raw", "npm:7.0.0"],\
           ["remark-gfm", "npm:4.0.0"],\
-          ["remark-smartypants", "npm:3.0.1"],\
+          ["remark-smartypants", "npm:3.0.2"],\
           ["source-map", "npm:0.7.4"],\
           ["unist-util-visit", "npm:5.0.0"],\
-          ["vfile", "npm:6.0.1"]\
+          ["vfile", "npm:6.0.2"]\
         ],\
         "packagePeers": [\
           "@types/astro",\
@@ -1524,13 +1499,6 @@ const RAW_RUNTIME_STATE =
           ["@types/hast", "npm:3.0.4"]\
         ],\
         "linkType": "HARD"\
-      }],\
-      ["npm:1.9.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@shikijs-core-npm-1.9.0-be6feae945-10c0.zip/node_modules/@shikijs/core/",\
-        "packageDependencies": [\
-          ["@shikijs/core", "npm:1.9.0"]\
-        ],\
-        "linkType": "HARD"\
       }]\
     ]],\
     ["@tailwindcss/typography", [\
@@ -1827,13 +1795,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/acorn-npm-8.11.3-0d7ab48b38-10c0.zip/node_modules/acorn/",\
         "packageDependencies": [\
           ["acorn", "npm:8.11.3"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:8.12.0", {\
-        "packageLocation": "../../.yarn/berry/cache/acorn-npm-8.12.0-10680c055b-10c0.zip/node_modules/acorn/",\
-        "packageDependencies": [\
-          ["acorn", "npm:8.12.0"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -5682,7 +5643,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["qianjunakasumi-moe", "workspace:."],\
           ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.2"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
@@ -5831,17 +5792,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["remark-smartypants", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../.yarn/berry/cache/remark-smartypants-npm-3.0.1-04efafbf07-10c0.zip/node_modules/remark-smartypants/",\
-        "packageDependencies": [\
-          ["remark-smartypants", "npm:3.0.1"],\
-          ["retext", "npm:9.0.0"],\
-          ["retext-smartypants", "npm:6.1.0"],\
-          ["unified", "npm:11.0.4"],\
-          ["unist-util-visit", "npm:5.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.0.2", {\
         "packageLocation": "../../.yarn/berry/cache/remark-smartypants-npm-3.0.2-2785971f65-10c0.zip/node_modules/remark-smartypants/",\
         "packageDependencies": [\
@@ -6112,14 +6062,6 @@ const RAW_RUNTIME_STATE =
           ["shiki", "npm:1.12.1"],\
           ["@shikijs/core", "npm:1.12.1"],\
           ["@types/hast", "npm:3.0.4"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:1.9.0", {\
-        "packageLocation": "../../.yarn/berry/cache/shiki-npm-1.9.0-81e433b231-10c0.zip/node_modules/shiki/",\
-        "packageDependencies": [\
-          ["shiki", "npm:1.9.0"],\
-          ["@shikijs/core", "npm:1.9.0"]\
         ],\
         "linkType": "HARD"\
       }]\
