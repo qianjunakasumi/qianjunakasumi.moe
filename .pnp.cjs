@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
           ["@material/web", "npm:2.0.0"],\
-          ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.13"],\
+          ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.14"],\
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.13.1"],\
           ["chalk", "npm:5.3.0"],\
@@ -1502,17 +1502,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@tailwindcss/typography", [\
-      ["npm:0.5.13", {\
-        "packageLocation": "../../.yarn/berry/cache/@tailwindcss-typography-npm-0.5.13-d1d59a3273-10c0.zip/node_modules/@tailwindcss/typography/",\
+      ["npm:0.5.14", {\
+        "packageLocation": "../../.yarn/berry/cache/@tailwindcss-typography-npm-0.5.14-ea794a140b-10c0.zip/node_modules/@tailwindcss/typography/",\
         "packageDependencies": [\
-          ["@tailwindcss/typography", "npm:0.5.13"]\
+          ["@tailwindcss/typography", "npm:0.5.14"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.13", {\
-        "packageLocation": "./.yarn/__virtual__/@tailwindcss-typography-virtual-1bd1df644b/3/.yarn/berry/cache/@tailwindcss-typography-npm-0.5.13-d1d59a3273-10c0.zip/node_modules/@tailwindcss/typography/",\
+      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.14", {\
+        "packageLocation": "./.yarn/__virtual__/@tailwindcss-typography-virtual-68b01509c3/3/.yarn/berry/cache/@tailwindcss-typography-npm-0.5.14-ea794a140b-10c0.zip/node_modules/@tailwindcss/typography/",\
         "packageDependencies": [\
-          ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.13"],\
+          ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.14"],\
           ["@types/tailwindcss", null],\
           ["lodash.castarray", "npm:4.4.0"],\
           ["lodash.isplainobject", "npm:4.0.6"],\
@@ -5648,7 +5648,7 @@ const RAW_RUNTIME_STATE =
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.19"],\
           ["@material/web", "npm:2.0.0"],\
-          ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.13"],\
+          ["@tailwindcss/typography", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:0.5.14"],\
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.13.1"],\
           ["chalk", "npm:5.3.0"],\
