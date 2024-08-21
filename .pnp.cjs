@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.13.1"],\
           ["chalk", "npm:5.3.0"],\
-          ["lit", "npm:3.1.4"],\
+          ["lit", "npm:3.2.0"],\
           ["pixi.js", "npm:8.1.4"],\
           ["tailwindcss", "npm:3.4.10"],\
           ["xterm", "npm:5.3.0"]\
@@ -100,7 +100,7 @@ const RAW_RUNTIME_STATE =
           ["@types/lit", null],\
           ["@types/webcomponents__template-shadowroot", null],\
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
-          ["lit", "npm:3.1.4"],\
+          ["lit", "npm:3.2.0"],\
           ["parse5", "npm:7.1.2"]\
         ],\
         "packagePeers": [\
@@ -3910,13 +3910,13 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.1.4", {\
-        "packageLocation": "../../.yarn/berry/cache/lit-npm-3.1.4-b7dcc2d5a3-10c0.zip/node_modules/lit/",\
+      ["npm:3.2.0", {\
+        "packageLocation": "../../.yarn/berry/cache/lit-npm-3.2.0-e29d8256b0-10c0.zip/node_modules/lit/",\
         "packageDependencies": [\
-          ["lit", "npm:3.1.4"],\
+          ["lit", "npm:3.2.0"],\
           ["@lit/reactive-element", "npm:2.0.4"],\
-          ["lit-element", "npm:4.0.5"],\
-          ["lit-html", "npm:3.1.3"]\
+          ["lit-element", "npm:4.1.0"],\
+          ["lit-html", "npm:3.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3931,6 +3931,16 @@ const RAW_RUNTIME_STATE =
           ["lit-html", "npm:3.1.3"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:4.1.0", {\
+        "packageLocation": "../../.yarn/berry/cache/lit-element-npm-4.1.0-98fef2c259-10c0.zip/node_modules/lit-element/",\
+        "packageDependencies": [\
+          ["lit-element", "npm:4.1.0"],\
+          ["@lit-labs/ssr-dom-shim", "npm:1.2.0"],\
+          ["@lit/reactive-element", "npm:2.0.4"],\
+          ["lit-html", "npm:3.2.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["lit-html", [\
@@ -3938,6 +3948,14 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/lit-html-npm-3.1.3-f1b10aa915-10c0.zip/node_modules/lit-html/",\
         "packageDependencies": [\
           ["lit-html", "npm:3.1.3"],\
+          ["@types/trusted-types", "npm:2.0.7"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:3.2.0", {\
+        "packageLocation": "../../.yarn/berry/cache/lit-html-npm-3.2.0-5c83bb0b92-10c0.zip/node_modules/lit-html/",\
+        "packageDependencies": [\
+          ["lit-html", "npm:3.2.0"],\
           ["@types/trusted-types", "npm:2.0.7"]\
         ],\
         "linkType": "HARD"\
@@ -5652,7 +5670,7 @@ const RAW_RUNTIME_STATE =
           ["@webcomponents/template-shadowroot", "npm:0.2.1"],\
           ["astro", "npm:4.13.1"],\
           ["chalk", "npm:5.3.0"],\
-          ["lit", "npm:3.1.4"],\
+          ["lit", "npm:3.2.0"],\
           ["pixi.js", "npm:8.1.4"],\
           ["tailwindcss", "npm:3.4.10"],\
           ["xterm", "npm:5.3.0"]\
