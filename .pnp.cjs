@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.4"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.20"],\
@@ -140,17 +140,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@astrojs/mdx", [\
-      ["npm:3.1.3", {\
-        "packageLocation": "../../.yarn/berry/cache/@astrojs-mdx-npm-3.1.3-859ab9a392-10c0.zip/node_modules/@astrojs/mdx/",\
+      ["npm:3.1.4", {\
+        "packageLocation": "../../.yarn/berry/cache/@astrojs-mdx-npm-3.1.4-6309a38017-10c0.zip/node_modules/@astrojs/mdx/",\
         "packageDependencies": [\
-          ["@astrojs/mdx", "npm:3.1.3"]\
+          ["@astrojs/mdx", "npm:3.1.4"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3", {\
-        "packageLocation": "./.yarn/__virtual__/@astrojs-mdx-virtual-f380207bed/3/.yarn/berry/cache/@astrojs-mdx-npm-3.1.3-859ab9a392-10c0.zip/node_modules/@astrojs/mdx/",\
+      ["virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.4", {\
+        "packageLocation": "./.yarn/__virtual__/@astrojs-mdx-virtual-35bb9ed984/3/.yarn/berry/cache/@astrojs-mdx-npm-3.1.4-6309a38017-10c0.zip/node_modules/@astrojs/mdx/",\
         "packageDependencies": [\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.4"],\
           ["@astrojs/markdown-remark", "npm:5.2.0"],\
           ["@mdx-js/mdx", "npm:3.0.1"],\
           ["@types/astro", null],\
@@ -158,7 +158,6 @@ const RAW_RUNTIME_STATE =
           ["astro", "npm:4.13.1"],\
           ["es-module-lexer", "npm:1.5.4"],\
           ["estree-util-visit", "npm:2.0.0"],\
-          ["github-slugger", "npm:2.0.0"],\
           ["gray-matter", "npm:4.0.3"],\
           ["hast-util-to-html", "npm:9.0.1"],\
           ["kleur", "npm:4.1.5"],\
@@ -5661,7 +5660,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["qianjunakasumi-moe", "workspace:."],\
           ["@astrojs/lit", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:4.3.0"],\
-          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.3"],\
+          ["@astrojs/mdx", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:3.1.4"],\
           ["@astrojs/sitemap", "npm:3.1.6"],\
           ["@astrojs/tailwind", "virtual:827e414c211a8fe562c660c409bebb8a61bf0ecdfae22a9c95d9e8fcfe5e412c799190ef17ef728f2330456cd7ff3f7607dd80ff86d3216d8701c992c385f2d7#npm:5.1.0"],\
           ["@fontsource-variable/red-hat-mono", "npm:5.0.20"],\
