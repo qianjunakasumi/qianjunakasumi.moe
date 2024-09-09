@@ -720,10 +720,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource-variable/red-hat-mono@npm:^5.0.20":
-  version: 5.0.20
-  resolution: "@fontsource-variable/red-hat-mono@npm:5.0.20"
-  checksum: 10c0/c1a4308b9e7d40e3ae260af5a74a5630722c50793f13623d7b03681696d6764c960c2a5993c10f63f6f3b3ab12a71e23497f2b8a2d951eb83075bcdfa53dc2b2
+"@fontsource-variable/red-hat-mono@npm:^5.0.21":
+  version: 5.0.21
+  resolution: "@fontsource-variable/red-hat-mono@npm:5.0.21"
+  checksum: 10c0/240897b350c4088de091e25ae9c3b794a236928c7c12d1132e755c4338e2fa9ad0e746402ce177fcbe65913dc4438c552d2852d930cb49f7bc6de4db4418fdf4
   languageName: node
   linkType: hard
 
@@ -4947,7 +4947,7 @@ __metadata:
     "@astrojs/mdx": "npm:^3.1.4"
     "@astrojs/sitemap": "npm:^3.1.6"
     "@astrojs/tailwind": "npm:^5.1.0"
-    "@fontsource-variable/red-hat-mono": "npm:^5.0.20"
+    "@fontsource-variable/red-hat-mono": "npm:^5.0.21"
     "@material/web": "npm:^2.1.0"
     "@tailwindcss/typography": "npm:^0.5.15"
     "@webcomponents/template-shadowroot": "npm:^0.2.1"
