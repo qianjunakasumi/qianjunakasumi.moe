@@ -1101,10 +1101,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oslojs/encoding@npm:^0.4.1":
-  version: 0.4.1
-  resolution: "@oslojs/encoding@npm:0.4.1"
-  checksum: 10c0/e3ccee039f385cca8a53afb1584c85d66d3685e20142649aab8f6e7f71ea11e026861e60e3d61de8d34a78adf9049e6da6813e3de51ba2b86239a4200c08ee76
+"@oslojs/encoding@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@oslojs/encoding@npm:1.0.0"
+  checksum: 10c0/08e6a28e83ea2f604dce4a95ac342af27c32dd2d243b870d86cd1b1c7dcd34fed4339a5d430995410560298d7776c56330bf2f13c6b002a38c820307f6a0320e
   languageName: node
   linkType: hard
 
@@ -1718,9 +1718,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^4.15.6":
-  version: 4.15.6
-  resolution: "astro@npm:4.15.6"
+"astro@npm:^4.15.9":
+  version: 4.15.9
+  resolution: "astro@npm:4.15.9"
   dependencies:
     "@astrojs/compiler": "npm:^2.10.3"
     "@astrojs/internal-helpers": "npm:0.4.1"
@@ -1729,7 +1729,7 @@ __metadata:
     "@babel/core": "npm:^7.25.2"
     "@babel/plugin-transform-react-jsx": "npm:^7.25.2"
     "@babel/types": "npm:^7.25.6"
-    "@oslojs/encoding": "npm:^0.4.1"
+    "@oslojs/encoding": "npm:^1.0.0"
     "@rollup/pluginutils": "npm:^5.1.0"
     "@types/babel__core": "npm:^7.20.5"
     "@types/cookie": "npm:^0.6.0"
@@ -1768,7 +1768,6 @@ __metadata:
     ora: "npm:^8.1.0"
     p-limit: "npm:^6.1.0"
     p-queue: "npm:^8.0.1"
-    path-to-regexp: "npm:6.2.2"
     preferred-pm: "npm:^4.0.0"
     prompts: "npm:^2.4.2"
     rehype: "npm:^13.0.1"
@@ -1794,7 +1793,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/a4cd6bd3cd815634fa01c9ad40ee33a16f4d14a6fe9ac706f5d6e73228665c8974d2be7b23905acf37e92e9e29c9d806e3cc960086b423411577464b5fbd777d
+  checksum: 10c0/049e8fc23a022954d03789238b1e5a7c314e1239f11d9b60ed8a29878c8768dbda02c1906cea0b65609d6d870472ebbc55b048efb141767887d789f63e214b1b
   languageName: node
   linkType: hard
 
@@ -4776,13 +4775,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"path-to-regexp@npm:6.2.2":
-  version: 6.2.2
-  resolution: "path-to-regexp@npm:6.2.2"
-  checksum: 10c0/4b60852d3501fd05ca9dd08c70033d73844e5eca14e41f499f069afa8364f780f15c5098002f93bd42af8b3514de62ac6e82a53b5662de881d2b08c9ef21ea6b
-  languageName: node
-  linkType: hard
-
 "periscopic@npm:^3.0.0":
   version: 3.1.0
   resolution: "periscopic@npm:3.1.0"
@@ -5035,7 +5027,7 @@ __metadata:
     "@material/web": "npm:^2.2.0"
     "@tailwindcss/typography": "npm:^0.5.15"
     "@webcomponents/template-shadowroot": "npm:^0.2.1"
-    astro: "npm:^4.15.6"
+    astro: "npm:^4.15.9"
     chalk: "npm:^5.3.0"
     lit: "npm:^3.2.0"
     pixi.js: "npm:^8.4.0"
