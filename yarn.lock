@@ -110,14 +110,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/sitemap@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "@astrojs/sitemap@npm:3.2.0"
+"@astrojs/sitemap@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "@astrojs/sitemap@npm:3.2.1"
   dependencies:
     sitemap: "npm:^8.0.0"
     stream-replace-string: "npm:^2.0.0"
     zod: "npm:^3.23.8"
-  checksum: 10c0/16e93a58831c3ac2f1da52e9660660c78abb423d10fd451b6e18f52f88250d5b16b077b226a201cbbcaa29d60558cd5fbd57980023808838869b929e707f1f2b
+  checksum: 10c0/03a883dcf5ea18963e2b9031c07ea131d8c79efbc76abb42a06e71db1ad252696846c187187f2804b16d1d51b740419433a1eacb4abe0e93d74056320aee12ae
   languageName: node
   linkType: hard
 
@@ -4916,7 +4916,7 @@ __metadata:
   dependencies:
     "@astrojs/lit": "npm:^4.3.0"
     "@astrojs/mdx": "npm:^3.1.8"
-    "@astrojs/sitemap": "npm:^3.2.0"
+    "@astrojs/sitemap": "npm:^3.2.1"
     "@astrojs/tailwind": "npm:^5.1.2"
     "@fontsource-variable/red-hat-mono": "npm:^5.1.0"
     "@material/web": "npm:^2.2.0"
