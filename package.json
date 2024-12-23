@@ -20,7 +20,7 @@
     "@material/web": "^2.2.0",
     "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^5.0.8",
-    "chalk": "^5.3.0",
+    "chalk": "^5.4.1",
     "lit": "^3.2.1",
     "pixi.js": "^8.4.0",
     "tailwindcss": "^3.4.16",
