@@ -1,0 +1,31 @@
+{
+	"name": "qianjunakasumi-moe website",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-22",
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
+
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+                "astro-build.astro-vscode",
+                "bradlc.vscode-tailwindcss",
+				"EditorConfig.EditorConfig",
+				"streetsidesoftware.code-spell-checker",
+                "wayou.vscode-todo-highlight"
+			]
+		}
+	},
+
+	"forwardPorts": [4321],
+
+	"portsAttributes": {
+		"4321": {
+			"label": "Astro",
+			"onAutoForward": "notify"
+		}
+	},
+
+	"postCreateCommand": "yarn install && yarn dev"
+}
