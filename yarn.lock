@@ -1317,9 +1317,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^5.1.7":
-  version: 5.1.7
-  resolution: "astro@npm:5.1.7"
+"astro@npm:^5.1.10":
+  version: 5.1.10
+  resolution: "astro@npm:5.1.10"
   dependencies:
     "@astrojs/compiler": "npm:^2.10.3"
     "@astrojs/internal-helpers": "npm:0.4.2"
@@ -1365,14 +1365,14 @@ __metadata:
     rehype: "npm:^13.0.2"
     semver: "npm:^7.6.3"
     sharp: "npm:^0.33.3"
-    shiki: "npm:^1.26.2"
+    shiki: "npm:^1.29.1"
     tinyexec: "npm:^0.3.2"
     tsconfck: "npm:^3.1.4"
     ultrahtml: "npm:^1.5.3"
     unist-util-visit: "npm:^5.0.0"
     unstorage: "npm:^1.14.4"
     vfile: "npm:^6.0.3"
-    vite: "npm:^6.0.7"
+    vite: "npm:^6.0.9"
     vitefu: "npm:^1.0.5"
     which-pm: "npm:^3.0.0"
     xxhash-wasm: "npm:^1.1.0"
@@ -1386,7 +1386,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/bb2fe473aa2c79a3a1750bee809b87c0710de0de84318692fcbbf8f47459bcf2dd13f05fa20c538a6a995e131a3f5928736ea6521485a0bfb248a18df6e76924
+  checksum: 10c0/c1bcdeea0a69c760d1c4f9b39baab82f6324f03d9b3d346172727cd2ee7533a073df4b0c651bfab25bf6c675481b24139b26e28b7d008158aac11f5e09200357
   languageName: node
   linkType: hard
 
@@ -4378,7 +4378,7 @@ __metadata:
     "@material/web": "npm:^2.2.0"
     "@tailwindcss/typography": "npm:^0.5.16"
     "@webcomponents/template-shadowroot": "npm:^0.2.1"
-    astro: "npm:^5.1.7"
+    astro: "npm:^5.1.10"
     chalk: "npm:^5.4.1"
     lit: "npm:^3.2.1"
     pixi.js: "npm:^8.4.0"
@@ -4907,7 +4907,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shiki@npm:^1.26.2":
+"shiki@npm:^1.26.2, shiki@npm:^1.29.1":
   version: 1.29.1
   resolution: "shiki@npm:1.29.1"
   dependencies:
@@ -5591,9 +5591,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^6.0.7":
-  version: 6.0.9
-  resolution: "vite@npm:6.0.9"
+"vite@npm:^6.0.9":
+  version: 6.0.11
+  resolution: "vite@npm:6.0.11"
   dependencies:
     esbuild: "npm:^0.24.2"
     fsevents: "npm:~2.3.3"
@@ -5639,7 +5639,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 10c0/b36f0f51318d6c33184da31e280862f23ef89712884e088b864c9edf112d65f6cf6795f201916e370a4434575fd3e2868f07f3bd63c6bdd5c2ae2295fa7f6d8a
+  checksum: 10c0/a0537f9bf8d6ded740646a4aa44b8dbf442d3005e75f7b27e981ef6011f22d4759f5eb643a393c0ffb8d21e2f50fb5f774d3a53108fb96a10b0f83697e8efe84
   languageName: node
   linkType: hard
 
