@@ -15,7 +15,7 @@
     "@astrojs/lit": "^4.3.0",
     "@astrojs/mdx": "^4.0.7",
     "@astrojs/sitemap": "^3.2.1",
-    "@astrojs/tailwind": "^5.1.4",
+    "@astrojs/tailwind": "^5.1.5",
     "@fontsource-variable/red-hat-mono": "^5.1.1",
     "@material/web": "^2.2.0",
     "@webcomponents/template-shadowroot": "^0.2.1",
