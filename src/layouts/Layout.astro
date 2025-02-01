@@ -15,17 +15,23 @@ const {
     language = 'en',
     isTittleSuffix = false
 } = Astro.props;
+
+const [ titleSuffix, descSuffix ] = [
+	'／@qianjunakasumi 千橘雫霞',
+	' ・ @qianjunakasumi 千橘雫霞／Official'
+];
+
 ---
 
 <!doctype html>
-<html lang={language}>
+<html lang={ language }>
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content={ description + ' ・ @qianjunakasumi 千橘雫霞／Official' } />
+		<meta name="description" content={ description + descSuffix } />
 		<meta name="viewport" content="width=device-width" />
 		<Favicon />
 		<link rel="sitemap" href="/sitemap-index.xml" />
-        <title>{isTittleSuffix?title+' ／ @qianjunakasumi':title}</title>
+        <title>{ isTittleSuffix ? title + titleSuffix : title }</title>
 		<slot name="head" />
 	</head>
 	<body>
