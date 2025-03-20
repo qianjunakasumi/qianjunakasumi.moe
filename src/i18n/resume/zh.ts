@@ -1,4 +1,4 @@
-import {ResumeContents} from "@/types/ResumeTypes";
+import type { ResumeContents } from "@/types/ResumeTypes";
 
 export const ResumeContent: ResumeContents = {
     titles: {
