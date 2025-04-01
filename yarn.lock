@@ -1350,9 +1350,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^5.5.4":
-  version: 5.5.4
-  resolution: "astro@npm:5.5.4"
+"astro@npm:^5.5.6":
+  version: 5.5.6
+  resolution: "astro@npm:5.5.6"
   dependencies:
     "@astrojs/compiler": "npm:^2.11.0"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -1390,13 +1390,13 @@ __metadata:
     neotraverse: "npm:^0.6.18"
     p-limit: "npm:^6.2.0"
     p-queue: "npm:^8.1.0"
-    package-manager-detector: "npm:^1.0.0"
+    package-manager-detector: "npm:^1.1.0"
     picomatch: "npm:^4.0.2"
     prompts: "npm:^2.4.2"
     rehype: "npm:^13.0.2"
     semver: "npm:^7.7.1"
     sharp: "npm:^0.33.3"
-    shiki: "npm:^3.0.0"
+    shiki: "npm:^3.2.1"
     tinyexec: "npm:^0.3.2"
     tinyglobby: "npm:^0.2.12"
     tsconfck: "npm:^3.1.5"
@@ -1404,20 +1404,20 @@ __metadata:
     unist-util-visit: "npm:^5.0.0"
     unstorage: "npm:^1.15.0"
     vfile: "npm:^6.0.3"
-    vite: "npm:^6.2.1"
+    vite: "npm:^6.2.4"
     vitefu: "npm:^1.0.6"
     xxhash-wasm: "npm:^1.1.0"
     yargs-parser: "npm:^21.1.1"
     yocto-spinner: "npm:^0.2.1"
     zod: "npm:^3.24.2"
-    zod-to-json-schema: "npm:^3.24.3"
+    zod-to-json-schema: "npm:^3.24.5"
     zod-to-ts: "npm:^1.2.0"
   dependenciesMeta:
     sharp:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/8f2f1a251ee976ce7a8c7f5cc3b620738721bfdccf8dc4a03e7849180ea257d3711990a78dc5b4bc2f2421287f6a9a5446ae98eb93556de610c59490860f2792
+  checksum: 10c0/365058a049a62d6c6098662eeef4167ce67a3b1527e426d62f895c36243744113d7db7912881e0bc8ab6fcafa2ab82632e5f4c1b4c2308f1c12a39fafebd8c48
   languageName: node
   linkType: hard
 
@@ -3827,7 +3827,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"package-manager-detector@npm:^1.0.0":
+"package-manager-detector@npm:^1.1.0":
   version: 1.1.0
   resolution: "package-manager-detector@npm:1.1.0"
   checksum: 10c0/b5ba0bdaae4d70bb6e1a1af047522fdcd811e65e60927c2e7cc3736324a00b30d66ac304bab1d7cd925b11142d90fcc4215a7efde430a5616cea698e0b2dfada
@@ -4005,7 +4005,7 @@ __metadata:
     "@material/web": "npm:^2.3.0"
     "@tailwindcss/vite": "npm:^4.0.15"
     "@webcomponents/template-shadowroot": "npm:^0.2.1"
-    astro: "npm:^5.5.4"
+    astro: "npm:^5.5.6"
     chalk: "npm:^5.4.1"
     lit: "npm:^3.2.1"
     pixi.js: "npm:^8.4.0"
@@ -4474,7 +4474,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shiki@npm:^3.0.0":
+"shiki@npm:^3.0.0, shiki@npm:^3.2.1":
   version: 3.2.1
   resolution: "shiki@npm:3.2.1"
   dependencies:
@@ -5049,58 +5049,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^6.2.1":
-  version: 6.2.3
-  resolution: "vite@npm:6.2.3"
-  dependencies:
-    esbuild: "npm:^0.25.0"
-    fsevents: "npm:~2.3.3"
-    postcss: "npm:^8.5.3"
-    rollup: "npm:^4.30.1"
-  peerDependencies:
-    "@types/node": ^18.0.0 || ^20.0.0 || >=22.0.0
-    jiti: ">=1.21.0"
-    less: "*"
-    lightningcss: ^1.21.0
-    sass: "*"
-    sass-embedded: "*"
-    stylus: "*"
-    sugarss: "*"
-    terser: ^5.16.0
-    tsx: ^4.8.1
-    yaml: ^2.4.2
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  peerDependenciesMeta:
-    "@types/node":
-      optional: true
-    jiti:
-      optional: true
-    less:
-      optional: true
-    lightningcss:
-      optional: true
-    sass:
-      optional: true
-    sass-embedded:
-      optional: true
-    stylus:
-      optional: true
-    sugarss:
-      optional: true
-    terser:
-      optional: true
-    tsx:
-      optional: true
-    yaml:
-      optional: true
-  bin:
-    vite: bin/vite.js
-  checksum: 10c0/ba6ad7e83e5a63fb0b6f62d3a3963624b8784bdc1bfa2a83e16cf268fb58c76bd9f8e69f39ed34bf8711cdb8fd7702916f878781da53c232c34ef7a85e0600cf
-  languageName: node
-  linkType: hard
-
 "vite@npm:^6.2.4":
   version: 6.2.4
   resolution: "vite@npm:6.2.4"
@@ -5308,12 +5256,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zod-to-json-schema@npm:^3.24.3":
-  version: 3.24.3
-  resolution: "zod-to-json-schema@npm:3.24.3"
+"zod-to-json-schema@npm:^3.24.5":
+  version: 3.24.5
+  resolution: "zod-to-json-schema@npm:3.24.5"
   peerDependencies:
     zod: ^3.24.1
-  checksum: 10c0/5d626fa7a51539236962b1348a7b7e7111bd1722f23ad06dead2f76599e6bd918e4067ffba0695e0acac5a60f217b4953d2ad62ad403a482d034d94f025f3a4c
+  checksum: 10c0/0745b94ba53e652d39f262641cdeb2f75d24339fb6076a38ce55bcf53d82dfaea63adf524ebc5f658681005401687f8e9551c4feca7c4c882e123e66091dfb90
   languageName: node
   linkType: hard
 
