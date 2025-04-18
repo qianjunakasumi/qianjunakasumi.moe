@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@astrojs/lit": "^4.3.0",
-    "@astrojs/mdx": "^4.2.3",
+    "@astrojs/mdx": "^4.2.4",
     "@astrojs/sitemap": "^3.3.0",
     "@fontsource-variable/red-hat-mono": "^5.2.5",
     "@material/web": "^2.3.0",
