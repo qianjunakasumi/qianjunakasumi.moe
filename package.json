@@ -15,7 +15,7 @@
     "@astrojs/lit": "^4.3.0",
     "@astrojs/mdx": "^4.2.6",
     "@astrojs/sitemap": "^3.4.0",
-    "@fontsource-variable/red-hat-mono": "^5.2.5",
+    "@fontsource-variable/red-hat-mono": "^5.2.6",
     "@material/web": "^2.3.0",
     "@tailwindcss/vite": "^4.1.8",
     "@webcomponents/template-shadowroot": "^0.2.1",
