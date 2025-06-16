@@ -17,7 +17,7 @@
     "@astrojs/sitemap": "^3.4.0",
     "@fontsource-variable/red-hat-mono": "^5.2.6",
     "@material/web": "^2.3.0",
-    "@tailwindcss/vite": "^4.1.8",
+    "@tailwindcss/vite": "^4.1.10",
     "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^5.9.2",
     "chalk": "^5.4.1",
