@@ -1517,9 +1517,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"astro@npm:^5.9.2":
-  version: 5.9.2
-  resolution: "astro@npm:5.9.2"
+"astro@npm:^5.10.1":
+  version: 5.10.1
+  resolution: "astro@npm:5.10.1"
   dependencies:
     "@astrojs/compiler": "npm:^2.12.2"
     "@astrojs/internal-helpers": "npm:0.6.1"
@@ -1588,7 +1588,7 @@ __metadata:
       optional: true
   bin:
     astro: astro.js
-  checksum: 10c0/6da1590fb367f9332bd83580d81c1d56a25be2dbd27f34488691ada167384d9bdf3ab195a71d3f94bf4a0118e53476630b9f7fb0b3b8d2581923ff7658f27b11
+  checksum: 10c0/d90da35db4f14ead58cc251aac241fd144c6584bb8a4873333c7b7e2015a8a2712dcf2cbb4d92633cd7773e493d26aa9f0ac6afb0839252518706b2b1be5b2ee
   languageName: node
   linkType: hard
 
@@ -4344,7 +4344,7 @@ __metadata:
     "@material/web": "npm:^2.3.0"
     "@tailwindcss/vite": "npm:^4.1.8"
     "@webcomponents/template-shadowroot": "npm:^0.2.1"
-    astro: "npm:^5.9.2"
+    astro: "npm:^5.10.1"
     chalk: "npm:^5.4.1"
     lit: "npm:^3.3.0"
     pixi.js: "npm:^8.4.0"
