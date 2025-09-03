@@ -12,7 +12,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/lit": "^4.3.0",
     "@astrojs/mdx": "^4.3.3",
     "@astrojs/sitemap": "^3.5.1",
     "@fontsource-variable/red-hat-mono": "^5.2.6",
@@ -21,7 +20,6 @@
     "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^5.13.5",
     "chalk": "^5.5.0",
-    "lit": "^3.3.0",
     "pixi.js": "^8.4.0",
     "tailwindcss": "^4.1.12",
     "xterm": "^5.3.0"

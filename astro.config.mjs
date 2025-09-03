@@ -1,5 +1,4 @@
 import { defineConfig } from 'astro/config';
-import lit from "@astrojs/lit";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
 import tailwindcss from '@tailwindcss/vite';
@@ -12,7 +11,7 @@ export default defineConfig({
     assets: 'assets'
   },
 
-  integrations: [lit(), sitemap(), mdx()],
+  integrations: [sitemap(), mdx()],
 
   i18n: {
     defaultLocale: 'en',
