@@ -14,7 +14,7 @@
   "dependencies": {
     "@astrojs/mdx": "^4.3.5",
     "@astrojs/sitemap": "^3.5.1",
-    "@fontsource-variable/red-hat-mono": "^5.2.6",
+    "@fontsource-variable/red-hat-mono": "^5.2.8",
     "@material/web": "^2.4.0",
     "@tailwindcss/vite": "^4.1.13",
     "@webcomponents/template-shadowroot": "^0.2.1",
