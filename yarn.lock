@@ -1916,10 +1916,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^5.6.0":
-  version: 5.6.0
-  resolution: "chalk@npm:5.6.0"
-  checksum: 10c0/f8558fc12fd9805f167611803b325b0098bbccdc9f1d3bafead41c9bac61f263357f3c0df0cbe28bc2fd5fca3edcf618b01d6771a5a776b4c15d061482a72b23
+"chalk@npm:^5.6.2":
+  version: 5.6.2
+  resolution: "chalk@npm:5.6.2"
+  checksum: 10c0/99a4b0f0e7991796b1e7e3f52dceb9137cae2a9dfc8fc0784a550dc4c558e15ab32ed70b14b21b52beb2679b4892b41a0aa44249bcb996f01e125d58477c6976
   languageName: node
   linkType: hard
 
@@ -4582,7 +4582,7 @@ __metadata:
     "@tailwindcss/vite": "npm:^4.1.13"
     "@webcomponents/template-shadowroot": "npm:^0.2.1"
     astro: "npm:^5.13.7"
-    chalk: "npm:^5.6.0"
+    chalk: "npm:^5.6.2"
     pixi.js: "npm:^8.4.0"
     tailwindcss: "npm:^4.1.12"
     typescript: "npm:^5.9.2"
