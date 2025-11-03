@@ -48,9 +48,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^4.3.8":
-  version: 4.3.8
-  resolution: "@astrojs/mdx@npm:4.3.8"
+"@astrojs/mdx@npm:^4.3.9":
+  version: 4.3.9
+  resolution: "@astrojs/mdx@npm:4.3.9"
   dependencies:
     "@astrojs/markdown-remark": "npm:6.3.8"
     "@mdx-js/mdx": "npm:^3.1.1"
@@ -67,7 +67,7 @@ __metadata:
     vfile: "npm:^6.0.3"
   peerDependencies:
     astro: ^5.0.0
-  checksum: 10c0/5c0ca849703aed2e9c57e69f87a452085238f22c629fab8573a2ec21fc892931d65a96c5e82dfa49450741027231fcf3816e68e7d70616822304668cd5b71eaa
+  checksum: 10c0/a45f7bdbe4d2bfc8622da0c80b1b2a35269792087973878784a3c033fad67f0fecf222caf220f035647566189f3a09279bd9adcf4d861645cc247f6f6d5dafdf
   languageName: node
   linkType: hard
 
@@ -3089,13 +3089,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kleur@npm:^4.1.5":
-  version: 4.1.5
-  resolution: "kleur@npm:4.1.5"
-  checksum: 10c0/e9de6cb49657b6fa70ba2d1448fd3d691a5c4370d8f7bbf1c2f64c24d461270f2117e1b0afe8cb3114f13bbd8e51de158c2a224953960331904e636a5e4c0f2a
-  languageName: node
-  linkType: hard
-
 "lightningcss-android-arm64@npm:1.30.2":
   version: 1.30.2
   resolution: "lightningcss-android-arm64@npm:1.30.2"
@@ -4484,7 +4477,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "qianjunakasumi-moe@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^4.3.8"
+    "@astrojs/mdx": "npm:^4.3.9"
     "@astrojs/sitemap": "npm:^3.6.0"
     "@fontsource-variable/red-hat-mono": "npm:^5.2.8"
     "@material/web": "npm:^2.4.0"
