@@ -15,7 +15,7 @@
     "@astrojs/mdx": "^4.3.9",
     "@astrojs/sitemap": "^3.6.0",
     "@fontsource-variable/red-hat-mono": "^5.2.8",
-    "@material/web": "^2.4.0",
+    "@material/web": "^2.4.1",
     "@tailwindcss/vite": "^4.1.16",
     "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^5.15.4",
