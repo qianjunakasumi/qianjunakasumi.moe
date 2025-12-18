@@ -77,11 +77,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/mdx@npm:^4.3.12":
-  version: 4.3.12
-  resolution: "@astrojs/mdx@npm:4.3.12"
+"@astrojs/mdx@npm:^4.3.13":
+  version: 4.3.13
+  resolution: "@astrojs/mdx@npm:4.3.13"
   dependencies:
-    "@astrojs/markdown-remark": "npm:6.3.9"
+    "@astrojs/markdown-remark": "npm:6.3.10"
     "@mdx-js/mdx": "npm:^3.1.1"
     acorn: "npm:^8.15.0"
     es-module-lexer: "npm:^1.7.0"
@@ -96,7 +96,7 @@ __metadata:
     vfile: "npm:^6.0.3"
   peerDependencies:
     astro: ^5.0.0
-  checksum: 10c0/69fe0a3c49952ac79986a368133676b3e795aeea0e7560ce771f626ec0a89d80571f8a269b8b7fa6ad29962553332872a9f956e5a4071f2bbf16f3cf266eda1e
+  checksum: 10c0/4900632200c06a42c57187c5310a8fea73a91272ed410a383b06f2aa0446d7d5f675a09047f92fa0ddb61b945647889695ae2486370f3d779b3107e03b96f4a0
   languageName: node
   linkType: hard
 
@@ -4714,7 +4714,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "qianjunakasumi-moe@workspace:."
   dependencies:
-    "@astrojs/mdx": "npm:^4.3.12"
+    "@astrojs/mdx": "npm:^4.3.13"
     "@astrojs/sitemap": "npm:^3.6.0"
     "@fontsource-variable/red-hat-mono": "npm:^5.2.8"
     "@material/web": "npm:^2.4.1"
