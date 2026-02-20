@@ -27,5 +27,5 @@
 		}
 	},
 
-	"postCreateCommand": "yarn set version stable && yarn install"
+	"postCreateCommand": "npm install"
 }
