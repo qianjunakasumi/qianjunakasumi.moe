@@ -2,7 +2,7 @@
   "name": "qianjunakasumi-moe",
   "type": "module",
   "version": "1.0.0",
-  "license": "(c) QIANJUNAKASUMI.MOE 2025",
+  "license": "Copyright (c) 2020-present, 千橘雫霞. All rights reserved.",
   "private": true,
   "scripts": {
     "dev": "astro dev",
