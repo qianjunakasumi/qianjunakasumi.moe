@@ -18,7 +18,7 @@
     "@material/web": "^2.4.1",
     "@tailwindcss/vite": "^4.2.2",
     "@webcomponents/template-shadowroot": "^0.2.1",
-    "astro": "^5.18.0",
+    "astro": "^5.18.1",
     "chalk": "^5.6.2",
     "pixi.js": "^8.4.0",
     "tailwindcss": "^4.2.2",
