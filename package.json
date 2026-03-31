@@ -12,7 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/mdx": "^5.0.3",
     "@astrojs/sitemap": "^3.7.1",
     "@fontsource-variable/red-hat-mono": "^5.2.8",
     "@material/web": "^2.4.1",
